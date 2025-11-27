@@ -1,4 +1,4 @@
-# GolangStocksApi
+# Golang Stocks Api
 
 
 
